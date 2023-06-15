@@ -7,21 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F82183132A36DC4100F23A39 /* RestaurantDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F82183122A36DC4100F23A39 /* RestaurantDetailViewController.swift */; };
+		F82183152A37171A00F23A39 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = F82183142A37171A00F23A39 /* Restaurant.swift */; };
 		F89042EC2A1A2A2000D79F87 /* RestaurantTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89042EB2A1A2A2000D79F87 /* RestaurantTableViewCell.swift */; };
+		F8D719862A39987100B19B0D /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719792A39987100B19B0D /* Roboto-ThinItalic.ttf */; };
+		F8D719872A39987100B19B0D /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D7197A2A39987100B19B0D /* Roboto-Black.ttf */; };
+		F8D719882A39987100B19B0D /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D7197B2A39987100B19B0D /* Roboto-Light.ttf */; };
+		F8D719892A39987100B19B0D /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D7197C2A39987100B19B0D /* Roboto-Thin.ttf */; };
+		F8D7198A2A39987100B19B0D /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = F8D7197D2A39987100B19B0D /* LICENSE.txt */; };
+		F8D7198B2A39987100B19B0D /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D7197E2A39987100B19B0D /* Roboto-MediumItalic.ttf */; };
+		F8D7198C2A39987100B19B0D /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D7197F2A39987100B19B0D /* Roboto-BlackItalic.ttf */; };
+		F8D7198D2A39987100B19B0D /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719802A39987100B19B0D /* Roboto-Bold.ttf */; };
+		F8D7198E2A39987100B19B0D /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719812A39987100B19B0D /* Roboto-Medium.ttf */; };
+		F8D7198F2A39987100B19B0D /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719822A39987100B19B0D /* Roboto-LightItalic.ttf */; };
+		F8D719902A39987100B19B0D /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719832A39987100B19B0D /* Roboto-Regular.ttf */; };
+		F8D719912A39987100B19B0D /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719842A39987100B19B0D /* Roboto-Italic.ttf */; };
+		F8D719922A39987100B19B0D /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8D719852A39987100B19B0D /* Roboto-BoldItalic.ttf */; };
+		F8D719942A39B27900B19B0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8D719932A39B27900B19B0D /* Main.storyboard */; };
+		F8D719962A39B93600B19B0D /* RestaurantDetailHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D719952A39B93600B19B0D /* RestaurantDetailHeaderView.swift */; };
+		F8D719982A39CDBF00B19B0D /* RestaurantDetailIconTextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D719972A39CDBF00B19B0D /* RestaurantDetailIconTextCell.swift */; };
+		F8D7199A2A39CF9900B19B0D /* RestaurantDetailTextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D719992A39CF9900B19B0D /* RestaurantDetailTextCell.swift */; };
 		F8F6EA442A00BEDD00CAD317 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F6EA432A00BEDD00CAD317 /* AppDelegate.swift */; };
 		F8F6EA462A00BEDD00CAD317 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F6EA452A00BEDD00CAD317 /* SceneDelegate.swift */; };
-		F8F6EA4B2A00BEDD00CAD317 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8F6EA492A00BEDD00CAD317 /* Main.storyboard */; };
 		F8F6EA4D2A00BEDE00CAD317 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8F6EA4C2A00BEDE00CAD317 /* Assets.xcassets */; };
 		F8F6EA502A00BEDE00CAD317 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8F6EA4E2A00BEDE00CAD317 /* LaunchScreen.storyboard */; };
 		F8F6EA582A00C0D500CAD317 /* RestaurantTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F6EA572A00C0D500CAD317 /* RestaurantTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F82183122A36DC4100F23A39 /* RestaurantDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailViewController.swift; sourceTree = "<group>"; };
+		F82183142A37171A00F23A39 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 		F89042EB2A1A2A2000D79F87 /* RestaurantTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantTableViewCell.swift; sourceTree = "<group>"; };
+		F8D719792A39987100B19B0D /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
+		F8D7197A2A39987100B19B0D /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Black.ttf"; sourceTree = "<group>"; };
+		F8D7197B2A39987100B19B0D /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		F8D7197C2A39987100B19B0D /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		F8D7197D2A39987100B19B0D /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		F8D7197E2A39987100B19B0D /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F8D7197F2A39987100B19B0D /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F8D719802A39987100B19B0D /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		F8D719812A39987100B19B0D /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		F8D719822A39987100B19B0D /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		F8D719832A39987100B19B0D /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		F8D719842A39987100B19B0D /* Roboto-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		F8D719852A39987100B19B0D /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F8D719932A39B27900B19B0D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		F8D719952A39B93600B19B0D /* RestaurantDetailHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailHeaderView.swift; sourceTree = "<group>"; };
+		F8D719972A39CDBF00B19B0D /* RestaurantDetailIconTextCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailIconTextCell.swift; sourceTree = "<group>"; };
+		F8D719992A39CF9900B19B0D /* RestaurantDetailTextCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailTextCell.swift; sourceTree = "<group>"; };
 		F8F6EA402A00BEDD00CAD317 /* FoodPin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodPin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8F6EA432A00BEDD00CAD317 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8F6EA452A00BEDD00CAD317 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F8F6EA4A2A00BEDD00CAD317 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F8F6EA4C2A00BEDE00CAD317 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8F6EA4F2A00BEDE00CAD317 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8F6EA512A00BEDE00CAD317 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -39,10 +75,78 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F82183162A3879B900F23A39 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				F8F6EA572A00C0D500CAD317 /* RestaurantTableViewController.swift */,
+				F82183122A36DC4100F23A39 /* RestaurantDetailViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		F82183172A3879DF00F23A39 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				F8D719932A39B27900B19B0D /* Main.storyboard */,
+				F8F6EA4E2A00BEDE00CAD317 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		F82183182A387A0300F23A39 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F82183142A37171A00F23A39 /* Restaurant.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F82183192A387A1600F23A39 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F89042EB2A1A2A2000D79F87 /* RestaurantTableViewCell.swift */,
+				F8D719952A39B93600B19B0D /* RestaurantDetailHeaderView.swift */,
+				F8D719972A39CDBF00B19B0D /* RestaurantDetailIconTextCell.swift */,
+				F8D719992A39CF9900B19B0D /* RestaurantDetailTextCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F8D719772A39981300B19B0D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F8D719782A39983400B19B0D /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F8D719782A39983400B19B0D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F8D7197D2A39987100B19B0D /* LICENSE.txt */,
+				F8D7197A2A39987100B19B0D /* Roboto-Black.ttf */,
+				F8D7197F2A39987100B19B0D /* Roboto-BlackItalic.ttf */,
+				F8D719802A39987100B19B0D /* Roboto-Bold.ttf */,
+				F8D719852A39987100B19B0D /* Roboto-BoldItalic.ttf */,
+				F8D719842A39987100B19B0D /* Roboto-Italic.ttf */,
+				F8D7197B2A39987100B19B0D /* Roboto-Light.ttf */,
+				F8D719822A39987100B19B0D /* Roboto-LightItalic.ttf */,
+				F8D719812A39987100B19B0D /* Roboto-Medium.ttf */,
+				F8D7197E2A39987100B19B0D /* Roboto-MediumItalic.ttf */,
+				F8D719832A39987100B19B0D /* Roboto-Regular.ttf */,
+				F8D7197C2A39987100B19B0D /* Roboto-Thin.ttf */,
+				F8D719792A39987100B19B0D /* Roboto-ThinItalic.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		F8F6EA372A00BEDD00CAD317 = {
 			isa = PBXGroup;
 			children = (
 				F8F6EA422A00BEDD00CAD317 /* FoodPin */,
+				F82183192A387A1600F23A39 /* View */,
+				F82183182A387A0300F23A39 /* Model */,
+				F82183162A3879B900F23A39 /* Controller */,
 				F8F6EA412A00BEDD00CAD317 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,13 +162,11 @@
 		F8F6EA422A00BEDD00CAD317 /* FoodPin */ = {
 			isa = PBXGroup;
 			children = (
+				F82183172A3879DF00F23A39 /* Storyboard */,
 				F8F6EA432A00BEDD00CAD317 /* AppDelegate.swift */,
 				F8F6EA452A00BEDD00CAD317 /* SceneDelegate.swift */,
-				F8F6EA492A00BEDD00CAD317 /* Main.storyboard */,
-				F8F6EA572A00C0D500CAD317 /* RestaurantTableViewController.swift */,
-				F89042EB2A1A2A2000D79F87 /* RestaurantTableViewCell.swift */,
+				F8D719772A39981300B19B0D /* Resources */,
 				F8F6EA4C2A00BEDE00CAD317 /* Assets.xcassets */,
-				F8F6EA4E2A00BEDE00CAD317 /* LaunchScreen.storyboard */,
 				F8F6EA512A00BEDE00CAD317 /* Info.plist */,
 			);
 			path = FoodPin;
@@ -128,9 +230,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8D719892A39987100B19B0D /* Roboto-Thin.ttf in Resources */,
+				F8D719862A39987100B19B0D /* Roboto-ThinItalic.ttf in Resources */,
 				F8F6EA502A00BEDE00CAD317 /* LaunchScreen.storyboard in Resources */,
+				F8D719882A39987100B19B0D /* Roboto-Light.ttf in Resources */,
+				F8D7198F2A39987100B19B0D /* Roboto-LightItalic.ttf in Resources */,
+				F8D7198D2A39987100B19B0D /* Roboto-Bold.ttf in Resources */,
+				F8D7198A2A39987100B19B0D /* LICENSE.txt in Resources */,
+				F8D719912A39987100B19B0D /* Roboto-Italic.ttf in Resources */,
+				F8D719872A39987100B19B0D /* Roboto-Black.ttf in Resources */,
+				F8D719902A39987100B19B0D /* Roboto-Regular.ttf in Resources */,
+				F8D719922A39987100B19B0D /* Roboto-BoldItalic.ttf in Resources */,
+				F8D719942A39B27900B19B0D /* Main.storyboard in Resources */,
 				F8F6EA4D2A00BEDE00CAD317 /* Assets.xcassets in Resources */,
-				F8F6EA4B2A00BEDD00CAD317 /* Main.storyboard in Resources */,
+				F8D7198E2A39987100B19B0D /* Roboto-Medium.ttf in Resources */,
+				F8D7198C2A39987100B19B0D /* Roboto-BlackItalic.ttf in Resources */,
+				F8D7198B2A39987100B19B0D /* Roboto-MediumItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +257,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				F89042EC2A1A2A2000D79F87 /* RestaurantTableViewCell.swift in Sources */,
+				F8D7199A2A39CF9900B19B0D /* RestaurantDetailTextCell.swift in Sources */,
 				F8F6EA442A00BEDD00CAD317 /* AppDelegate.swift in Sources */,
+				F82183152A37171A00F23A39 /* Restaurant.swift in Sources */,
+				F8D719982A39CDBF00B19B0D /* RestaurantDetailIconTextCell.swift in Sources */,
+				F8D719962A39B93600B19B0D /* RestaurantDetailHeaderView.swift in Sources */,
+				F82183132A36DC4100F23A39 /* RestaurantDetailViewController.swift in Sources */,
 				F8F6EA462A00BEDD00CAD317 /* SceneDelegate.swift in Sources */,
 				F8F6EA582A00C0D500CAD317 /* RestaurantTableViewController.swift in Sources */,
 			);
@@ -151,14 +271,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F8F6EA492A00BEDD00CAD317 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F8F6EA4A2A00BEDD00CAD317 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		F8F6EA4E2A00BEDE00CAD317 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
